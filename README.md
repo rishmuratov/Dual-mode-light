@@ -1,3 +1,7 @@
+
+//Видео работы программы
+https://github.com/user-attachments/assets/4c16ad91-9cac-46bf-bc3e-6714f3e59c98
+
 //0 режим - выкл.
 <img width="1920" height="1080" alt="Скриншот-20260501-075713" src="https://github.com/user-attachments/assets/78a03eb3-d07d-472f-af8b-68a037d45956" />
 //1 режим - вкл.(горит постоянно лампочка)
